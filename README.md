@@ -9,8 +9,9 @@ It compares multiple models and uses an **ensemble** for improved accuracy.
 
 ![Gradio Demo](assets/gradio_demo_screenshot_kohli.png)
 
-> Upload a face image — the ensemble of CNN, MobileNetV2, and ResNet50 will predict if the person is wearing a mask.
 
+
+![Gradio Demo](assets/gradio_demo_screenshot_without_mask.png)
 ---
 
 ## 🔍 Project Highlights
