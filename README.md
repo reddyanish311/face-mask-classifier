@@ -25,6 +25,8 @@ It compares multiple models and uses an **ensemble** for improved accuracy.
 - 🌐 Gradio App for real-time predictions
 
 ---
+🚫 Note: Model files (`.h5`) are too large for direct GitHub upload.
+✅ You can re-train them using the provided notebook.
 
 <details>
 <summary>📁 Dataset</summary>
